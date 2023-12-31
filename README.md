@@ -61,3 +61,23 @@ Contributors
 
 For any inquiries or issues regarding this code, please contact the contributors.
 
+## Launching Project
+
+To run the project, you have a couple of options:
+
+### Using Google Colab via Gist
+
+Access the project through Google Colab using the Gist website. You can import the necessary data from the GitHub project resources. Use the following Gist link: [gist link here](https://gist.github.com/RobertNeat/dfed06fe43c30c459c785d988e11f307)
+
+### Running Locally
+
+If you prefer to run the project on your local machine, follow these steps:
+
+1. **Clone the Repository**: Download the repository branch from GitHub.
+2. **Local Environment**:
+   - **DataSpell or PyCharm**: Open the project using DataSpell or PyCharm by JetBrains.
+   - **Spyder IDE**: Alternatively, you can use Spyder IDE to work with the project.
+3. **Dataset Requirements**:
+   - Ensure that the dataset files are available and stored inside your project directory. This step is crucial to prevent any issues related to missing data.
+
+Running the project locally allows you to explore the code and execute it in your preferred Python environment. If you encounter any problems, make sure to check the dataset's presence in your project directory.
